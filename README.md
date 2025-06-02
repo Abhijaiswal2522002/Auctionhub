@@ -35,9 +35,8 @@
 
 ## 📷 Screenshots
 
-| Home Page | Auction Page | Admin Dashboard |
-|----------|--------------|------------------|
-| ![Home]([./public/screenshots/home.png](https://github.com/Abhijaiswal2522002/Auctionhub/blob/b21f6577a5e1c9284847ed92a16de0c1718abd76/public/uploads/Screenshot%202025-06-03%20002549.png)) |
+
+| ![How Its Work]((https://github.com/Abhijaiswal2522002/Auctionhub/blob/b21f6577a5e1c9284847ed92a16de0c1718abd76/public/uploads/Screenshot%202025-06-03%20002549.png)) |
 
 ---
 

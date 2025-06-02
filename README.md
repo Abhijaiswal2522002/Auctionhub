@@ -1,6 +1,6 @@
 # 🛒 Auction Platform
 
-![Auction Platform Banner](./public/uploads/Screenshot2025-06-03002351.png)
+![Auction Platform Banner](https://github.com/Abhijaiswal2522002/Auctionhub/blob/15d5398866eadb95d2830f10801971abc7dd80c5/public/uploads/Screenshot%202025-06-03%20002351.png)
 
 > A real-time online auction platform where users can list items, place bids, and win products live — built with MERN & modern technologies.
 

@@ -1,6 +1,6 @@
 # 🛒 Auction Platform
 
-![Auction Platform Banner](./public/uploads/Screenshot 2025-06-03 002351.png)
+![Auction Platform Banner](./public/uploads/Screenshot2025-06-03002351.png)
 
 > A real-time online auction platform where users can list items, place bids, and win products live — built with MERN & modern technologies.
 
